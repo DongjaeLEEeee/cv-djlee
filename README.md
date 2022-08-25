@@ -1,5 +1,5 @@
 # cv-akim
-CV latex template that I am using.
+CV latex template forked from Prof. Ayoung Kim's cv-akim repo.
 
 ## 1. Organization
 
